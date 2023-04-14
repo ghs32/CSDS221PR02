@@ -1,0 +1,21 @@
+.tableHeader{
+    background-color: blue;
+}
+
+.text{
+    color:white;
+    font-size:  20px;
+    font-weight: bold;
+}
+
+#deleteButton{
+    background-color: rgb(255, 0, 0);
+}
+
+#errorText{
+    color: red;
+}
+
+
+
+
